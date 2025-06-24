@@ -1,0 +1,5 @@
+todo-app/
+├── index.html        # App structure
+├── style.css         # Layout & design
+├── script.js         # Functional logic
+└── README.md         # Project info
